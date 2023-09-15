@@ -5,9 +5,10 @@
 
 
 
-<h3 align="center">I am a Full Stack Programmer with knowledge of technologies such as: React, Redux, Express, Nodejs, JavaScript, CSS. 
-  From a very young age he spent hours fixing things that needed inventiveness and fine motor skills (detail is everything). 
-  The scarce resources led me to be creative to learn and solve the conflicts that were posed to me. That's how I became interested in technology and mechanical engineering. I love Programming since it is part of an important pillar that leads me not only to make my technological objects work, but to do it in an efficient way and tailored to me (or whoever needs it)</h3>
+<h3 align="center">I am a Full Stack Programmer with expertise in technologies such as React, Redux, Express, Node.js, JavaScript, and CSS.
+
+From a very young age, I spent hours fixing things that required inventiveness and precise motor skills; attention to detail was paramount. The limited resources at my disposal forced me to become creative in my quest to learn and resolve the challenges that confronted me. This is how my interest in technology and mechanical engineering blossomed. I have a genuine passion for Programming, as it constitutes a significant pillar in my life. It enables me not only to ensure the functionality of my technological devices but also to do so efficiently and tailor them to my needs, or anyone else's who may require them.
+</h3>
 
 
 

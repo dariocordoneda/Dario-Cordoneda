@@ -16,7 +16,7 @@ From a very young age, I spent hours fixing things that required inventiveness a
 - 🔭 I’m currently working on [MasterBakers (E-commerce)](https://pf-pan-masa-madre.vercel.app/)
   
 
-- 🌱 I’m currently learning **Bootstrap, Python**
+- 🌱 I’m currently learning **QA Automation Engineer**
 
 
 - 💬 Ask me about **React, Redux, NodeJS, Css, Music, Guitar, Robotics and RC**
